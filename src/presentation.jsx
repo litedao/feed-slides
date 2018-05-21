@@ -82,6 +82,7 @@ export default class Presentation extends React.Component {
               <ListItem>14 ETH/USD</ListItem>
               <ListItem>3 MKR/USD</ListItem>
               <ListItem>~25 ETH spent in a year</ListItem>
+              <ListItem>~99.99 Availability</ListItem>
               <ListItem>Mostly Maker folks, some community members</ListItem>
             </List>
           </Slide>
@@ -90,6 +91,7 @@ export default class Presentation extends React.Component {
               The Future
             </Heading>
             <List>
+              <ListItem>Already audited</ListItem>
               <ListItem>Off-chain signing</ListItem>
               <ListItem>On-chain aggregation</ListItem>
               <ListItem>(It's the latest fad)</ListItem>
