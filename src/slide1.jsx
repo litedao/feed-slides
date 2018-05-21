@@ -88,7 +88,7 @@ class Slide1 extends Component {
         </Appear>
         <Appear>
           <Text textColor="secondary">
-            MKR/USD <Price value={this.state.pep} /> (2/3 working)
+            MKR/USD <Price value={this.state.pep} /> (3/3 working)
           </Text>
         </Appear>
       </div>
