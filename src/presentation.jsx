@@ -97,10 +97,23 @@ export default class Presentation extends React.Component {
             </List>
           </Slide>
           <Slide>
+            <Heading size={1} lineHeight={1} textColor="tertiary" fit>
+              The Future part 2
+            </Heading>
             <List>
               <ListItem>Cheaper oracles</ListItem>
               <ListItem>Higher accuracy</ListItem>
               <ListItem>5 USD VPS</ListItem>
+              <ListItem>Every one of us running an oracle</ListItem>
+            </List>
+          </Slide>
+          <Slide>
+            <Heading size={1} lineHeight={1} textColor="tertiary" fit>
+              Parterships?
+            </Heading>
+            <List>
+              <ListItem>Rhombus (Consensys/Wolfram)</ListItem>
+              <ListItem>Chainlink</ListItem>
             </List>
           </Slide>
           <Slide>
@@ -122,7 +135,10 @@ export default class Presentation extends React.Component {
           </Slide>
           <Slide>
             <Heading size={1} lineHeight={1} textColor="tertiary" fit>
-              Thank you :)
+              On behalf of the Feeds Team
+            </Heading>
+            <Heading size={1} lineHeight={1} textColor="tertiary" fit>
+              Thank you! :)
             </Heading>
             <Heading size={3} lineHeight={1} textColor="secondary" fit>
               Any questions?
